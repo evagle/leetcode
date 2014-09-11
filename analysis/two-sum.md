@@ -1,10 +1,7 @@
-/**
- * @file two-sum.md
- * @Brief 
- * @author  Brian 
- * @version 1.0
- * @date 2014-09-11
- */
+@file two-sum.md  
+@author  Brian  
+@version 1.0 
+@date 2014-09-11  
 
 
 ##Two Sum [ [sourcecode](../src/TwoSum.cpp) | [problem](https://oj.leetcode.com/problems/two-sum/) ]
