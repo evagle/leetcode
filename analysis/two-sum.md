@@ -1,6 +1,6 @@
 @file two-sum.md  
 @author  Brian  
-@version 1.0 
+@version 1.0  
 @date 2014-09-11  
 
 
