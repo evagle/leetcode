@@ -12,3 +12,7 @@
 *.la
 *.a
 *.out
+
+.c9revisions/
+.settings
+.idea/
