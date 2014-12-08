@@ -11,5 +11,7 @@ Solutions for leetcode.
 #### No.4  [Add Two Numbers ](analysis/add-two-numbers.md)
 #### No.6  [ZigZag Conversion ](analysis/zigzag-conversion.md)
 #### No.7  [Reverse Integer ](analysis/reverse-integer.md)
+#### No.8  [String to Integer](analysis/string-to-integer-atoi.md)
+#### No.9  [Palindrome Number ](analysis/palindrome-number.md)
 #### No.x  [Word Ladder](analysis/word-ladder.md)
 
