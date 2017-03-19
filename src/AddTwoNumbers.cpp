@@ -21,7 +21,10 @@ public:
             
             if (num >= 10){
                 p->val = num % 10;
-                num = num/10;
+## num=num/10运行时间220ms
+//                num = num/10;
+## num=1运行时间50ms，除法消耗的时间不容小觑
+                num = 1;
             } else {
                 p->val = num;
                 num = 0;
