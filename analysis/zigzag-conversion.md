@@ -1,5 +1,5 @@
 
-##ZigZag Conversion [ [sourcecode](../src/ZigZagConversion.cpp) | [problem](https://oj.leetcode.com/problems/zigzagconversion/) ]
+##ZigZag Conversion [ [sourcecode](../src/ZigZagConversion.cpp) | [problem](https://oj.leetcode.com/problems/zigzag-conversion/) ]
 
 ##分析
 将字符串按照zigzag形式输出。纯模拟。找规律。

@@ -1,10 +1,4 @@
-@file two-sum.md  
-@author  Brian  
-@version 1.0  
-@date 2014-09-11  
-
-
-##Two Sum [ [sourcecode](../src/TwoSum.cpp) | [problem](https://oj.leetcode.com/problems/two-sum/) ]
+##Two Sum [ [sourcecode](../src/TwoSum.cpp) | [problem](https://leetcode.com/problems/two-sum/) ]
 
 ##分析
 这个题目看上去很简单，就是在一堆数里面找两个数，使得他们的和为给定的值。但是，其实这个题目要求比较高，而且坑很多。首先如果想要AC，普通的暴力枚举是不行的，因为时间复杂度是O(n^2)。    
